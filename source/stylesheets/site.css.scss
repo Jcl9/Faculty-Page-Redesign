@@ -1,0 +1,49 @@
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav li a:hover:not(.active) {
+  background-color: #111;
+}
+
+
+.bond1 img {
+  width: 260px;
+  height: 540px;
+  alt: "Michael Bond with his dog in a forest";
+  align-items: center;
+  justify-content: center;
+}
+.tableStyle {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  th{
+    font-size: 24px;
+  }
+}
