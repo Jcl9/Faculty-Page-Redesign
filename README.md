@@ -4,7 +4,7 @@ In this project, professor Michael D. Bond's site: http://web.cse.ohio-state.edu
 
 To successfully run the project, please make sure you have installen git and ruby 2.5.0 and clone our repository using the command:
 ```
-git clone https://github.com/cse3901-2019sp-1730/CreativityOverFlowProject_4.git
+https://github.com/Jcl9/Faculty-Page-Redesign.git
 ```
 # How to view the project
 1. Please make sure you have installed bundler, if not, please install it:
