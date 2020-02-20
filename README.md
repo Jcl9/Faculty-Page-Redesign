@@ -1,4 +1,5 @@
 # Static Web Site Design
+[![HitCount](http://hits.dwyl.com/Jcl9/Faculty-Page-Redesign.svg)](http://hits.dwyl.com/Jcl9/Faculty-Page-Redesign)
 
 In this project, professor Michael D. Bond's site: http://web.cse.ohio-state.edu/~mikebond/ is redesigned.
 
